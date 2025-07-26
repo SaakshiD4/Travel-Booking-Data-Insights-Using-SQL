@@ -1,4 +1,4 @@
-<h1 style="color: teal;">💼 Travel Booking Data Insights Using SQL</h1>
+# 💼 Travel Booking Data Insights Using SQL
 
 ## 1. Segment Activity
 What I Did: Counted bookings grouped by segment.
@@ -30,7 +30,9 @@ Learned: Use ORDER BY with LIMIT to find top performers.
 
 ## 5. Month-wise Trends
 What I Did: Filtered bookings for April 2022.
+
 Insights: All bookings were in April—no long-term users.
+
 Learned: EXTRACT(MONTH/YEAR) makes time analysis simple.
 
 ## 6. Booking Across Months
