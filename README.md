@@ -1,4 +1,4 @@
-# Travel Booking Data Insights Using SQL
+<h1 style="color: teal;">💼 Travel Booking Data Insights Using SQL</h1>
 
 ## 1. Segment Activity
 What I Did: Counted bookings grouped by segment.
